@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana;
+}
+
+
+
+main{
+    background: white;
+    padding: 20px 30px;
+}
+
+footer{
+    background-color: teal;
+    text-align: bottom;
+    padding: 25px;
+    color: #ffffff;
+
+}
